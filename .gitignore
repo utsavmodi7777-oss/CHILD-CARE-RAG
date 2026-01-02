@@ -19,7 +19,6 @@ venv/
 Thumbs.db
 
 # Logs
-*.md
 *.log
 logs/
 docs/
