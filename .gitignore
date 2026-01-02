@@ -1,0 +1,43 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.md
+*.log
+logs/
+docs/
+translations/
+
+# Testing files
+testing_files/
+testing_file/
+tests/
+
+# Data directories
+data/
+new_data/processed/
+new_data/qa_pairs/
+new_data/embeddings/
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/

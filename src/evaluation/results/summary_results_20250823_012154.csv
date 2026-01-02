@@ -1,0 +1,6 @@
+config_name,total_queries,avg_hit_at_1,avg_hit_at_3,avg_hit_at_5,avg_mrr,avg_precision_at_1,avg_precision_at_3,avg_precision_at_5,total_execution_time,total_openai_calls,total_cohere_calls,estimated_cost_gpt4o_mini
+fast_baseline,50,0.48,0.64,0.7,0.574462185,0.48,0.213333333,0.144,53.1519618,100,0,0.02325
+minimal_processing,50,0.48,0.64,0.7,0.573285714,0.48,0.213333333,0.144,51.28242278,0,0,0.02325
+baseline_current,50,0.48,0.64,0.7,0.558666667,0.48,0.213333333,0.144,146.8570247,100,50,0.0465
+expansion_only,50,0.48,0.64,0.7,0.558666667,0.48,0.213333333,0.144,150.5999718,50,50,0.058125
+hyde_only,50,0.48,0.64,0.7,0.558666667,0.48,0.213333333,0.144,150.0251553,50,50,0.06975
