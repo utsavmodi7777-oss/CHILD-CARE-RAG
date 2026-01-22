@@ -1,0 +1,62 @@
+# Core RAG Framework (pinned versions)
+langchain-core==0.3.75
+langchain-openai==0.3.32
+langchain-cohere==0.4.5
+langchain-community==0.3.29
+langchain==0.3.27
+
+# Document Processing (no deepsearch-toolkit)
+docling==2.48.0
+docling-core==2.45.0
+
+# Vector Database
+pymilvus==2.4.9
+
+# LLM Integration
+openai==1.101.0
+
+# Web Search
+tavily-python==0.3.3
+
+# Data Processing
+pandas==2.3.2
+tqdm==4.66.1
+numpy==1.26.4
+
+# Configuration
+python-dotenv==1.0.0
+pydantic==2.9.2
+pydantic-settings==2.10.1
+pydantic-core==2.23.4
+
+# Utilities
+colorlog==6.8.0
+rich==13.7.0
+tenacity==8.2.3
+
+# Chainlit Frontend Framework
+chainlit==1.3.1
+
+# Data Processing Utilities
+cohere==5.17.0
+
+# Async Support
+asyncio-throttle==1.0.2
+
+# gRPC
+grpcio==1.74.0
+
+# Required by docling
+tiktoken==0.11.0
+
+# Common dependencies (explicit for clarity)
+httpx==0.28.1
+requests==2.32.5
+certifi==2024.12.14
+urllib3==2.5.0
+typing-extensions==4.15.0
+
+# CPU-only PyTorch (installed from CPU index) MUST be at the end
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1+cpu
+torchvision==0.20.1+cpu

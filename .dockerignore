@@ -1,0 +1,77 @@
+# Python cache and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+.coverage
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+ENV/
+.tox/
+
+# Version control and CI
+.git/
+.github/
+.gitignore
+
+# Documentation and markdown
+*.md
+README*
+CHANGELOG*
+LICENSE*
+
+# Development and testing files
+testing_files/
+testing_file/
+tests/
+docs/
+*.ipynb
+complete_system_test.py
+enhanced_rag_test.py
+
+# Data directories (not needed in Railway)
+pdfs/
+data/
+new_data/
+logs/
+references/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Project specific excludes
+chainlit-datalayer/
+chainlit-deploy-flyio-main/
+requirements.txt
+embedding_generation.log
+test_single_embedding.log
+FIXES_IMPLEMENTATION_SUMMARY.md
+LLM_EVALUATION_IMPLEMENTATION_SUMMARY.md
+SETUP_GUIDE.md
+RAILWAY_OPTIMIZATION_SUMMARY.md
+
+# Logs and temporary files
+*.log
+*.out
+*.err
+
+# Exclude .chainlit directories to avoid any startup conflicts
+.chainlit/
+**/.chainlit/

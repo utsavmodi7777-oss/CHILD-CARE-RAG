@@ -1,0 +1,49 @@
+# Core RAG Framework
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+langchain-cohere
+langchain-community
+langchain
+
+# Document Processing
+docling
+docling-core
+deepsearch-toolkit
+
+# Vector Database
+pymilvus==2.3.6
+
+# GPU Acceleration
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1+cu121
+numpy>=1.26.0,<2.0.0
+
+# LLM Integration
+openai>=1.68.2
+
+# Web Search
+tavily-python==0.3.3
+
+# Data Processing
+pandas>=2.1.4
+tqdm==4.66.1
+
+# Configuration
+python-dotenv==1.0.0
+pydantic>=2.6.0
+pydantic-settings>=2.3.0
+
+# Utilities
+colorlog==6.8.0
+rich==13.7.0
+tenacity==8.2.3
+
+# Chainlit Frontend Framework
+chainlit
+
+# Async Support
+asyncio-throttle
+
+# Required by docling
+tiktoken
+google-generativeai
