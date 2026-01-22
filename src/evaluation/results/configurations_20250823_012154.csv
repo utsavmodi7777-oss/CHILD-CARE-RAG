@@ -1,0 +1,6 @@
+name,description,use_query_expansion,expansion_count,use_hyde,retrieval_k,rrf_k,use_reranking,reranking_top_k
+baseline_current,Current production configuration,TRUE,4,TRUE,20,60,TRUE,5
+fast_baseline,Fast baseline without reranking,TRUE,4,TRUE,20,60,FALSE,20
+minimal_processing,Minimal processing for speed,FALSE,1,FALSE,15,60,FALSE,15
+expansion_only,Query expansion without HyDE,TRUE,3,FALSE,20,60,TRUE,5
+hyde_only,HyDE without query expansion,FALSE,1,TRUE,20,60,TRUE,5

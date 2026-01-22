@@ -1,0 +1,458 @@
+[
+  {
+    "query": "What are the main areas of a child's growth and development?",
+    "ground_truth_answer": "A child's growth and development involves several key areas. These include physical changes from conception through adolescence, cognitive changes in thinking and memory, and shifts in emotions, psychological well-being, and social relationships throughout childhood and the teenage years.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "1. CHDV-100-OER-Textbook-updatedJuly2020_4"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What influences a child's development more: their genes or their environment?",
+    "ground_truth_answer": "A child's development is influenced by both nature (their genetics) and nurture (their environment). A child's behaviors, motivations, emotions, and choices are all part of a bigger picture that includes when and where they live. It is understood that these two forces constantly work together to shape who a child becomes.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "1. CHDV-100-OER-Textbook-updatedJuly2020_5"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What are the different stages of child development from birth to adulthood?",
+    "ground_truth_answer": "Experts who study child development typically break down the early part of the life span into five main stages. These are: Prenatal Development (from conception to birth), Infancy and Toddlerhood (birth to two years), Early Childhood (3 to 5 years), Middle Childhood (6 to 11 years), and Adolescence (12 years to adulthood).",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "1. CHDV-100-OER-Textbook-updatedJuly2020_6"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What's a more effective way to encourage good behavior: reinforcement or punishment?",
+    "ground_truth_answer": "Reinforcing a desirable behavior is often a more effective way to encourage it than using criticism or punishment. By focusing on strengthening the behaviors you want to see, you can have a greater impact than if you only emphasize what is undesirable. Punishment is often less effective because it doesn't show the desired behavior and may only stop a behavior when you are around.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "1. CHDV-100-OER-Textbook-updatedJuly2020_32"
+    ],
+    "confidence_hint": "high"
+  },
+    {
+    "query": "What are the different parenting styles?",
+    "ground_truth_answer": "One model describes four parenting styles. Authoritarian parents make strict rules and expect obedience. Permissive parents have low expectations and allow children to make their own rules. Authoritative parents are appropriately strict and affectionate, allowing for negotiation. Uninvolved parents are disengaged and non-responsive to their children's needs.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "1. CHDV-100-OER-Textbook-updatedJuly2020_311"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What is the most significant factor I can influence for my child's development?",
+    "ground_truth_answer": "Of all the factors that can be changed to influence your child's development, the most important one is the quality of parenting they receive. While many things affect a child, the way you parent has a powerful and direct impact on their growth and well-being.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "3. L-G-0011992329-0035354927_14"
+    ],
+    "confidence_hint": "high"
+  },
+    {
+    "query": "What are my most basic responsibilities as a parent?",
+    "ground_truth_answer": "Your core responsibilities include providing for your child's physical care and survival needs, such as food, warmth, shelter, and clothing. It is also essential to provide love and affection and to ensure that your child is kept safe and that risks of harm are minimized.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "3. L-G-0011992329-0035354927_19"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "Why is setting boundaries important for my child?",
+    "ground_truth_answer": "Setting limits and boundaries helps children learn to manage their emotions and behavior. It teaches them to control impulsive actions and to understand what is considered acceptable behavior in different social situations. This involves having clear expectations, rules, and consistent consequences.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "3. L-G-0011992329-0035354927_23"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What is a 'secure attachment' and why is it important?",
+    "ground_truth_answer": "A secure attachment gives your child a sense of closeness, predictability, and confidence in seeking support from you. It's built when you respond to your child in a consistent, caring, and timely way. This is associated with better emotional development and makes parenting easier.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "3. L-G-0011992329-0035354927_36"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What is the difference between my child's growth and their development?",
+    "ground_truth_answer": "Growth typically refers to the physical changes your child goes through, such as getting taller or heavier. Development is a much broader term that describes the overall growth throughout their life, which includes intellectual, physical, emotional, and social changes.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "11. PG_M.A._Child Care and Education_312 11_Principles of Child Development_11"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "Why are emotions so important for my child's development?",
+    "ground_truth_answer": "Emotions are vital for your child's personal and social adjustment. They provide energy to face situations, act as motivators for behavior, and add pleasure to daily life. Understanding and expressing emotions in a healthy way is important, as strong emotional disturbances can affect thinking, and emotional deprivation can lead to personality challenges.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "11. PG_M.A._Child Care and Education_312 11_Principles of Child Development_23"
+    ],
+    "confidence_hint": "high"
+  },
+    {
+    "query": "Why are friends so important to my school-aged child?",
+    "ground_truth_answer": "When a child enters school, their social circle widens, and peer groups become very important for their social development. This period is sometimes called the 'gang age' because children form loyal groups, usually with friends of the same sex. These peer groups help them learn social rules and behaviors outside of the family.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "11. PG_M.A._Child Care and Education_312 11_Principles of Child Development_30"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "Why do young children have temper tantrums?",
+    "ground_truth_answer": "Temper tantrums are an intense storm of emotions that usually result from a young child's unmet needs, wishes, or desires. Tantrums are natural behaviors, particularly for young children who are starting to seek independence but do not yet have the vocabulary to express their deep frustration, anger, or disappointment in words.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "11. PG_M.A._Child Care and Education_312 11_Principles of Child Development_488"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What are the benefits of early childhood education for my child?",
+    "ground_truth_answer": "Research has shown that early childhood education helps young children perform well in their school years and in their later life. It's designed to provide the right developmental opportunities in a stress-free and engaging environment, which helps create a readiness for learning. These early years are considered foundational for a child's lifelong learning and social development.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "20. Earlychildhood_8"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "Why is play considered so important in early childhood education?",
+    "ground_truth_answer": "Play is natural for children and is their primary way of learning. It helps them express their ideas and feelings, understand the world around them, and build social relationships. Through play, children develop their senses and strengthen their muscles, which builds their confidence. It is a valuable and effective medium for promoting a child's all-round development.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "20. Earlychildhood_28"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What are some simple ways I can help my child's development at home?",
+    "ground_truth_answer": "Spending quality time with your child is key. You can converse with them, make them feel loved and secure, sing songs, tell stories, and play with them. It is also important to listen patiently, avoid criticism, answer their questions to encourage curiosity, and provide age-appropriate toys and activities.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "20. Earlychildhood_35"
+    ],
+    "confidence_hint": "high"
+  },
+    {
+    "query": "What is the difference between a child's growth and their development?",
+    "ground_truth_answer": "Although often used together, 'growth' and 'development' are different. 'Growth' refers to quantitative changes, such as increases in a child's size and physical structure. 'Development,' on the other hand, refers to qualitative changes. It is defined as a progressive series of orderly, coherent changes that lead forward.",
+    "answer_type": "factoid",
+    "chunk_ids": [
+      "21. Paper_19_29"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What is the most important thing I can do for my child's mental health?",
+    "ground_truth_answer": "Unconditional love from family should be at the heart of family life and is essential for a child's good mental health. Children need to know that your love does not depend on their accomplishments, and that mistakes are an expected and accepted part of life. A home full of unconditional love helps a child build confidence and high self-esteem.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "21. Paper_19_43",
+      "21. Paper_19_44",
+      "21. Paper_19_45",
+      "21. Paper_19_46"
+    ],
+    "confidence_hint": "medium"
+  },
+  {
+    "query": "Why is good nutrition so important for young children?",
+    "ground_truth_answer": "Good nutrition in the early years is vital because a child's first experiences with food play an important part in shaping their eating habits later in life. Healthy eating habits support healthy growth and development. A preschool child must be provided with nourishing food to properly develop their body and strength.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "21. Paper_19_90"
+    ],
+    "confidence_hint": "high"
+  },
+    {
+    "query": "Why is it so important for children to eat breakfast?",
+    "ground_truth_answer": "It is particularly important for children to have breakfast because it improves their ability to concentrate in class. Eating a good breakfast also means they are less likely to snack on high-fat or high-sugar foods later in the morning.",
+    "answer_type": "factoid",
+    "chunk_ids": [
+      "21. Paper_19_93"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "Why is my child's social-emotional development so important?",
+    "ground_truth_answer": "A child's social-emotional development is just as important as their physical and mental growth. It helps them build a strong sense of who they are, how they learn, and how to create healthy relationships. These skills help them communicate, connect with people, resolve conflicts, and gain confidence, which equips them to handle stress and find happiness throughout their lives.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "23. FECP-M3-Understanding-SE-Development-in-Young-Children_3"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "How can I handle my baby's separation anxiety?",
+    "ground_truth_answer": "Separation anxiety often starts around seven months. It's important to prepare your child before you leave by talking to them and telling them you will be back soon. To start, try leaving them with someone they know for just a short time and greet them happily when you return. You can gradually increase the time you are away to help ease them into this transition.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "23. FECP-M3-Understanding-SE-Development-in-Young-Children_5"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "Why does my toddler say 'no' all the time and refuse to share toys?",
+    "ground_truth_answer": "It is normal for toddlers to say 'no' and be possessive, as they see themselves as the center of the world. This behavior is a way for them to assert their growing independence and self-awareness. While you can talk about sharing, it's a skill that they are just beginning to learn and will develop more fully in the coming years.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "23. FECP-M3-Understanding-SE-Development-in-Young-Children_7"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What is empathy, and how can I teach it to my child?",
+    "ground_truth_answer": "Empathy is when your child starts to feel what another person is feeling and responds in an appropriate way. A very easy way to teach this is to use a picture book, pausing to ask your child how a character might be feeling based on their actions or facial expressions. This helps your child understand that others have similar feelings.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "24. ISP-Resource-Social-and-Emotional-Development-FA-web_3"
+    ],
+    "confidence_hint": "medium"
+  },
+    {
+    "query": "What is the 'circle of five' strategy for helping my child's friendships?",
+    "ground_truth_answer": "The 'circle of five' is a strategy focused on helping your child invest in five people they truly connect with. The goal is for your child to share thoughts and feelings with these five people, who can be family members, friends, or teachers, to build strong, meaningful, and positive relationships.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "24. ISP-Resource-Social-and-Emotional-Development-FA-web_5"
+    ],
+    "confidence_hint": "medium"
+  },
+  {
+    "query": "What are 'helicopter parents'?",
+    "ground_truth_answer": "Helicopter parents are those who feel that loving their children means revolving their lives around them. They tend to hover over their children and rescue them whenever trouble arises. They might run forgotten lunches to school or constantly pull their children out of jams. While done out of love, this prevents children from having the growing experiences they need to become equipped for the challenges of life.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "25. Parenting20Love20Logic_20Children2020PDFDrive.com29_23"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "Why is it important to let my child fail sometimes?",
+    "ground_truth_answer": "There is a paradox in parenting: unless we allow our children to fail, sometimes grandiosely, we cannot allow them to choose success. Failure and success are two sides of the same coin. Smart parents realize that for their children to succeed, they need to learn to make their own decisions, and in doing so, they will sometimes make the wrong choice and fail. This is a crucial part of learning.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "25. Parenting20Love20Logic_20Children2020PDFDrive.com29_28",
+      "25. Parenting20Love20Logic_20Children2020PDFDrive.com29_29"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What's the difference between using 'fighting words' and 'thinking words' with my child?",
+    "ground_truth_answer": "'Fighting words' are commands that often invite disobedience, like 'Don't you talk to me in that tone of voice!' 'Thinking words' are enforceable statements, often in the form of questions or choices, that make kids think for themselves. For example, you could say, 'You sound upset. I'll be glad to listen when your voice is as soft as mine is.' This puts the responsibility on them.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "25. Parenting20Love20Logic_20Children2020PDFDrive.com29_80"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "How does giving choices help me gain control in a power struggle?",
+    "ground_truth_answer": "Control is a curious thing; the more you give away, the more you gain. When you offer choices instead of making demands, you allow your child to have some control, but on your terms. This forces them to think about their options rather than reacting against your commands. The struggle is transferred inside the child's head, and you gain the control you need by relinquishing the control you don't.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "25. Parenting20Love20Logic_20Children2020PDFDrive.com29_90",
+      "25. Parenting20Love20Logic_20Children2020PDFDrive.com29_95",
+      "25. Parenting20Love20Logic_20Children2020PDFDrive.com29_104"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "How does too much screen time affect my child?",
+    "ground_truth_answer": "Prolonged use of gadgets can strain your child's eyes, leading to headaches and lack of sleep, which may cause irritability. It can also negatively affect their creativity, attention span, and critical thinking. Too much screen time often reduces physical activity, which can lead to health issues, and may make it harder for them to develop social skills.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "26. parenting-handbook-Final-Eversion_52"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "How can I manage my child's use of gadgets?",
+    "ground_truth_answer": "Start by being a role model with your own screen time. Set clear rules and create gadget-free zones like the dining room. Offer fun diversions like outdoor play, board games, or art supplies. It's also important to monitor the content they are viewing and have open conversations with them about being safe online.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "26. parenting-handbook-Final-Eversion_53"
+    ],
+    "confidence_hint": "medium"
+  },
+  {
+    "query": "How can I help my child deal with peer pressure?",
+    "ground_truth_answer": "Creating a loving and supportive home environment gives your child a strong foundation. Help your child develop self-confidence through hobbies and sports that offer positive peer interactions. It is also crucial to teach them how to say 'no' when needed and to think about the consequences of their actions before they do something.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "26. parenting-handbook-Final-Eversion_68"
+    ],
+    "confidence_hint": "medium"
+  },
+  {
+    "query": "What is positive discipline?",
+    "ground_truth_answer": "Positive discipline is an approach that teaches children to become responsible and respectful without using harsh punishment. It's based on the idea that there are no bad children, only good and bad behaviors. The focus is on teaching and reinforcing good behavior in a way that is kind, firm, and respectful to the child.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "26. parenting-handbook-Final-Eversion_73"
+    ],
+    "confidence_hint": "high"
+  },
+    {
+    "query": "Why is it so important to encourage a reading habit in my child?",
+    "ground_truth_answer": "Reading provides many benefits for a child's development. It helps to reduce stress, expand their vocabulary, and improve focus and memory. It also develops stronger analytical and thinking skills. Books can fuel a child's imagination, transport them to different worlds, and has a significant positive effect on their academic performance.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "26. parenting-handbook-Final-Eversion_98"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What is the most important factor in a baby's healthy development?",
+    "ground_truth_answer": "Relationships are the primary way development happens for infants and toddlers. Stable, sensitive, and respectful relationships with caregivers provide the foundation for healthy language, social, emotional, and cognitive growth. These positive relationships are so important that they literally help shape the structure of a child's developing brain.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "31. ece127infanttoddlerdevelopmentandcare_44"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "Why are the first three years of a child's life so important?",
+    "ground_truth_answer": "The first three years are a unique and critical period of rapid growth that lays the foundation for all later development. The relationships and experiences a child has during this time can have a lasting impact. For example, early experiences directly affect the brain's architecture, influencing how it gets wired and how well it processes information, forms ideas, and remembers things later in life.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "31. ece127infanttoddlerdevelopmentandcare_49"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What are the most important safe sleep practices for my baby?",
+    "ground_truth_answer": "To reduce the risk of Sudden Unexpected Infant Death (SUID), you should: 1) Always place your baby on their back for all sleep times, including naps. 2) Use a firm, flat sleep surface like a mattress in a safety-approved crib with a fitted sheet. 3) Keep the sleep area clear of soft bedding, blankets, pillows, and toys. 4) Don't let your baby get too hot.",
+    "answer_type": "multi_step",
+    "chunk_ids": [
+      "31. ece127infanttoddlerdevelopmentandcare_108"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What are 'Adverse Childhood Experiences' or ACEs?",
+    "ground_truth_answer": "Adverse Childhood Experiences, or ACEs, are potentially traumatic events that happen to a child between the ages of 0 and 17. These can include experiencing or witnessing violence, abuse, or neglect, as well as growing up in a household with serious challenges like substance abuse, mental illness, or divorce. These experiences are concerning because they can threaten a child's healthy development.",
+    "answer_type": "factoid",
+    "chunk_ids": [
+      "31. ece127infanttoddlerdevelopmentandcare_146"
+    ],
+    "confidence_hint": "high"
+  },
+    {
+    "query": "Why is 'tummy time' so important for my baby?",
+    "ground_truth_answer": "Tummy time, which is placing your baby on their stomach while they are awake and supervised, is important for several reasons. It helps prevent flat spots on the back of their head and strengthens their neck and shoulder muscles. This muscle development is crucial for building the strength they need to later sit up, roll over, crawl, and walk. It is positively related to overall gross motor development.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "31. ece127infanttoddlerdevelopmentandcare_181"
+    ],
+    "confidence_hint": "high"
+  },
+    {
+    "query": "How does preschool help prepare my child for success in school and later in life?",
+    "ground_truth_answer": "Preschool helps develop the all-around abilities in children aged 3 to 6 that are essential for future success. Through creative play and well-designed games, children improve important skills like their working memory, their ability to focus attention, and their self-control. An emotionally supportive environment also helps them build secure relationships with teachers and peers.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "36. 1642572098-preschool_pdf_3"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "Is it harmful to push formal academics like reading and writing too early in preschool?",
+    "ground_truth_answer": "Pushing formal academics too early can harm a child's natural curiosity and positive attitude toward learning. Preschool teachers should discourage rote, teacher-directed learning that lacks a meaningful context. Instead, they should provide opportunities for children to demonstrate curiosity and creativity, focusing on building concepts and strengthening skills through play and exploration rather than formal instruction.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "36. 1642572098-preschool_pdf_11"
+    ],
+    "confidence_hint": "high"
+  },
+    {
+    "query": "How do my child's early experiences affect their future?",
+    "ground_truth_answer": "Experiences in early childhood shape a child's ability to read, write, and become a confident person. Each area of development is connected; for example, a child's nutrition in the early years directly affects how well they can learn when they get to school. Many adult health issues can also have their roots in these foundational years.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "38. A Good Start - Early Childhood Development Booklet_4"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "Do children need expensive toys to learn and develop?",
+    "ground_truth_answer": "No, young children do not need expensive toys to learn. They can play and learn effectively with everyday items found at home or in nature. Simple things like pots, cups, seeds, pebbles, leaves, water, and sand can provide wonderful opportunities for exploration and development.",
+    "answer_type": "factoid",
+    "chunk_ids": [
+      "38. A Good Start - Early Childhood Development Booklet_10"
+    ],
+    "confidence_hint": "high"
+  },
+    {
+    "query": "Why is it so important for my child to have a secure attachment to me?",
+    "ground_truth_answer": "Having a secure attachment is very important because it can affect a child's behavior both in the short term and for years to come. The feelings of security from these relationships can have lasting effects, even influencing how they might parent their own children in the future.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "49. parent child interaction_3"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What does a positive parent-child interaction look like?",
+    "ground_truth_answer": "Positive interactions are warm, sensitive, and responsive to what the child needs. This loving approach is combined with having clear expectations and limits, using logical consequences, and making sure the child is safe.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "49. parent child interaction_9"
+    ],
+    "confidence_hint": "high"
+  },
+    {
+    "query": "Why are routines important for managing my child's behavior?",
+    "ground_truth_answer": "Routines are key to a well-managed and organized environment, as they help minimize behavioral challenges. Children enjoy routines that are easy to understand and accomplish. Research indicates that a lack of consistent routines is a common cause of behavioral problems.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "51. practical-approaches-to-behaviour-management-in-the-classroom-a-handbook-for-classroom-teachers-in-primary-schools_18"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "How can I use praise effectively to encourage my child?",
+    "ground_truth_answer": "Praise is a powerful way to encourage desired behavior because it focuses on a child's effort rather than just the result. When you give genuine praise that is specific, spontaneous, and well-deserved, it helps encourage your child's learning and can decrease competition with others.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "51. practical-approaches-to-behaviour-management-in-the-classroom-a-handbook-for-classroom-teachers-in-primary-schools_20"
+    ],
+    "confidence_hint": "high"
+  },
+    {
+    "query": "How can I build a stronger relationship with my child?",
+    "ground_truth_answer": "You can build a strong, respectful relationship by creating a caring, relaxed, and fair environment where your child feels accepted. Take time to learn about their individual interests, talents, and dislikes. Involving them in decisions about family rules and activities also helps. Always treat them with respect, and never embarrass or ridicule them.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "51. practical-approaches-to-behaviour-management-in-the-classroom-a-handbook-for-classroom-teachers-in-primary-schools_51"
+    ],
+    "confidence_hint": "high"
+  },
+    {
+    "query": "How does the arrival of a new baby affect my older child's behavior?",
+    "ground_truth_answer": "The birth of a new sibling can be a developmental crisis for many children. It changes the home environment and parental attention, which can lead to jealousy, behavioral regressions, or tantrums. Skills that were newly acquired right before the baby's arrival, such as toilet training, are more likely to regress. The change in the mother-child relationship, with decreased attention and affection for the older child, is thought to be a primary reason for the increase in behavior problems.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "52. Behavior-Management-in-Dentistry-for-Children_106"
+    ],
+    "confidence_hint": "high"
+  },
+  {
+    "query": "What is the 'Tell-Show-Do' method that dentists use with children?",
+    "ground_truth_answer": "Tell-Show-Do is a classic technique to familiarize a child with dental procedures. First, the dentist will TELL the child what is going to be done using simple, age-appropriate words. Second, the dentist will SHOW the child what will be used, perhaps by demonstrating on a finger or a model. Third, the dentist will DO the procedure exactly as it was explained and demonstrated. This method helps remove the fear of the unknown and builds trust between the child and the dental team.",
+    "answer_type": "paraphrase",
+    "chunk_ids": [
+      "52. Behavior-Management-in-Dentistry-for-Children_180"
+    ],
+    "confidence_hint": "high"
+  }
+]
