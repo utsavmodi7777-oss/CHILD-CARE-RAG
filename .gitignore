@@ -5,39 +5,77 @@ __pycache__/
 
 # Virtual environments
 venv/
-.env
+.venv/
+.venv-1/
+.venv_win/
+dev_env/
+env/
+ENV/
 
 # Environment variables
 .env
+.env.local
+.env.*.local
 
 # IDE files
 .vscode/
 .idea/
+*.swp
+*.swo
+*~
 
 # OS files
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Logs
-
 *.log
 logs/
-docs/
-translations/
+chainlit.log
+
+# Chainlit files
+.chainlit/
+.files/
+
+# Documentation (optional - uncomment if not needed)
+# docs/
+# translations/
 
 # Testing files
 testing_files/
 testing_file/
 tests/
+test_*.py
 
-# Data directories
-data/
+# Data directories (keep structure, exclude processed)
+# data/
 new_data/processed/
 new_data/qa_pairs/
 new_data/embeddings/
 
+# Model files (large files)
+models/
+*.pt
+*.pth
+*.bin
+
 # Streamlit cache
 .streamlit/
 
-# Jupyter Notebooks checkpoints
+# Jupyter Notebooks
 .ipynb_checkpoints/
+*.ipynb
+
+# Build and dist
+build/
+dist/
+*.egg-info/
+
+# Docker
+.dockerignore
+
+# Temporary files
+tmp/
+temp/
+*.tmp
