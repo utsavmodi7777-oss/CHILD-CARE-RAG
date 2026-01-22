@@ -5,7 +5,7 @@ Logging configuration for the Childcare RAG System.
 import logging
 import colorlog
 from rich.logging import RichHandler
-from config.settings import settings
+from .settings import settings
 
 
 def setup_logging() -> logging.Logger:
