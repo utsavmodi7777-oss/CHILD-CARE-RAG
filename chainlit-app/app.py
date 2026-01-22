@@ -33,8 +33,14 @@ def auth_callback(username: str, password: str):
         os.getenv('AUTH_USER_4')
     ]
     
-    if not all(auth_users_env):
-        print("Authentication credentials not properly configured in .env file")
+    print(f"DEBUG: Auth attempt for username: {username}")
+    print(f"DEBUG: Environment variables loaded: {[f'{i+1}: {bool(v)}' for i, v in enumerate(auth_users_env)]}")
+    
+    # Filter out None values
+    auth_users_env = [user for user in auth_users_env if user]
+    
+    if not auth_users_env:
+        print("ERROR: No authentication credentials configured")
         return None
     
     auth_users = {}
@@ -43,11 +49,13 @@ def auth_callback(username: str, password: str):
             if ':' in auth_user:
                 user, pwd = auth_user.split(':', 1)
                 auth_users[user] = pwd
+        print(f"DEBUG: Loaded users: {list(auth_users.keys())}")
     except Exception as e:
-        print(f"Error parsing authentication credentials: {e}")
+        print(f"ERROR: Error parsing authentication credentials: {e}")
         return None
     
     if username in auth_users and auth_users[username] == password:
+        print(f"SUCCESS: Login successful for {username}")
         role = 'admin' if 'admin' in username.lower() else \
                'expert' if 'expert' in username.lower() else \
                'demo' if 'demo' in username.lower() else 'user'
@@ -61,6 +69,7 @@ def auth_callback(username: str, password: str):
             }
         )
     else:
+        print(f"FAILED: Invalid credentials for {username}")
         return None
 
 
