@@ -75,7 +75,6 @@
 - **PyTorch**: ML framework (CPU-only for deployment)
 
 ## 📁 Project Structure
-
 ```
 childcare-advanced-rag-main/
 ├── chainlit-app/               # Main application
@@ -306,8 +305,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Contact: [Your Email]
+- Contact: [9898408110]
+## DEMO SCREEN SHOT
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/634cc006-1aca-441c-848b-85954ba2abab" />
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/634cc006-1aca-441c-848b-85954ba2abab" />
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/0ecb26d7-81d9-4ad3-b00b-d7448385e7ad" />
+<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/0074c3f3-e4ed-413e-a0b4-7b21910119b0" />
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/d662a133-c1b2-4b7e-a6f2-1af5bde32459" />
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/f403f0e2-cb04-44af-818b-6e03abd9dcab" />
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/6e104ab5-dc43-42fe-aa98-ca2d04980942" />
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/c849545b-21e4-4288-be04-8830837a72be" />
+<img width="1917" height="869" alt="image" src="https://github.com/user-attachments/assets/35b3d19f-5755-4665-bf69-80a07723bd5c" />
 
----
+--
 
 **Made with ❤️ for childcare professionals and parents**
